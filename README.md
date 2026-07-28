@@ -9,7 +9,7 @@
 :
 <img width="1288" height="617" alt="Screenshot 2026-07-29 013037" src="https://github.com/user-attachments/assets/7e14f3b5-8696-420b-83d8-b8e7be234c25" />
 
- راح ننشئ Landing Page كاملة وحديثة بتصميم أنيق ونظيف، باستعمال React 19 + Tailwind CSS 4 مع Vite
+ Landing Page كاملة وحديثة بتصميم أنيق ونظيف، باستعمال React 19 + Tailwind CSS 4 مع Vite
  الموقع يحتوي على
 🌐 Navbar
 🎯 Hero Section
