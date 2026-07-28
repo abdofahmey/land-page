@@ -15,3 +15,4 @@
 🚀 AI Benefits Section
 📩 Contact Section
 📝 Footer
+لنك المشروع ai-land-page.netlify.app
